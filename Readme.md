@@ -1,0 +1,1 @@
+This is a concept placeholder only.  I've seen Golang in action, and watched some training videos - knowledge is definitely not beyond that.  I hope to circle back on this at some point.
